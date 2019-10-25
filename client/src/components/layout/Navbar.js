@@ -20,12 +20,12 @@ const Navbar = ({ title, icon }) => {
 };
 
 Navbar.propTypes = {
-  tite: PropTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
   icon: PropTypes.string
 };
 
 Navbar.defaultProps = {
-  tite: 'Contact Keeper',
+  title: 'Contact Keeper',
   icon: 'fas fa-id-card-alt'
 };
 
