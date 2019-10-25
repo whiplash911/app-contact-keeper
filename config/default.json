@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://doncho:004d302b@cluster0-pj4b1.mongodb.net/test?retryWrites=true&w=majority",
+  "JWT_SECRET": "375vn6345d3f0467h05m656"
+}
